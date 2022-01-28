@@ -1,0 +1,124 @@
+{
+  "get_num": {},
+  "getStatics": {},
+  "ft_metadata": {},
+  "ft_total_supply": {},
+  "nft_metadata": {},
+  "nft_total_supply": {},
+  "nft_tokens": {
+    "args": {
+      "from_index": "0",
+      "limit": 2
+    }
+  },
+  "get_metadata": {},
+  "get_num_accounts": {
+    "contract": "adtoken.near"
+  },
+  "get_num_sales": {},
+  "get_contract_state": {},
+  "get_contract_info": {},
+  "get_accounts": {
+    "args": {
+      "from_index": 0,
+      "limit": 2
+    }
+  },
+  "list_farms": {
+    "args": {
+      "from_index": 0,
+      "limit": 2
+    }
+  },
+  "list_sales": {
+    "args": {
+      "from_index": 0,
+      "limit": 3
+    }
+  },
+  "get_accounts_info": {
+    "args": {
+      "from_index": 0,
+      "limit": 2
+    }
+  },
+  "list_seeds": {
+    "args": {
+      "from_index": 0,
+      "limit": 2
+    }
+  },
+  "value": {
+    "contract": "near-punks.near"
+  },
+  "get_meta_limits": {
+    "contract": "adtoken.near"
+  },
+  "get_metas": {
+    "contract": "adtoken.near"
+  },
+  "get_info": {},
+  "list_request_ids": {},
+  "get_assets": {},
+  "get_asset": {
+    "args": {
+      "asset_id": "wrap.near"
+    }
+  },
+  "get_price_data": {
+    "args": {
+      "asset_ids": [
+        "wrap.near"
+      ]
+    }
+  },
+  "nft_tokens_for_owner": {
+    "args": {
+      "account_id": "bravo5.testnet",
+      "from_index": "0",
+      "limit": 1
+    }
+  },
+  "nft_supply_for_owner": {
+    "args": {
+      "account_id": "electra.testnet",
+      "from_index": "0",
+      "limit": 1
+    }
+  },
+  "get_sale_accounts": {
+    "args": {
+      "sale_id": 14,
+      "from_index": 0,
+      "limit": 5
+    }
+  },
+  "get_sales": {
+    "args": {
+      "sale_id": 14,
+      "from_index": 0,
+      "limit": 5
+    }
+  },
+  "is_account_banned": {
+    "args": {
+      "account_id": "nazira.near"
+    }
+  },
+  "is_account_whitelisted": {
+    "args": {
+      "account_id": "nazira.near"
+    }
+  },
+  "custom_balance_of2": {
+    "args": {
+      "account_id": "pxt-manager.near"
+    }
+  },
+  "custom_balance_of": {
+    "args": {
+      "account_id": "pxt-manager.near"
+    }
+  },
+  "get_ch_presale_supply": {}
+}
