@@ -8,12 +8,19 @@ Telegram bot <a href="https://t.me/nearwasmbot">@nearwasmbot</a> helps extract m
 $ npm install
 ```
 
-### Usage
+### Launching
 ```
 $ node bot.js
 ```
 
-Send the NEAR account address to the bot and get a list of contract methods
+### Usage
+Send the NEAR account address to the bot and get a list of contract methods.
+
+Reply contract methods post and type 
+```
+view contract_method contract_parameters 
+```
+to get a result of a view method
 
 ### Video
 https://youtu.be/N9ES3dMfy3g
