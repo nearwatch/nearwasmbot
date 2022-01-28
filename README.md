@@ -1,6 +1,6 @@
 ## Introduction
 Telegram bot <a href="https://t.me/nearwasmbot">@nearwasmbot</a> helps extract methods list of NEAR account contract , get method result in one click and quickly share it in Telegram
-<img src="https://telegra.ph/file/e28b90522b6681c0965aa.png" /> <img src="https://telegra.ph/file/6ccee19b049dc00699df2.png" />
+<img src="https://telegra.ph/file/167e062dcda87d4a3414a.png" />
 
 ### Installation
 ```
